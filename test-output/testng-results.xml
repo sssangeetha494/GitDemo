@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-12T16:11:24 CDT" name="Suite" finished-at="2020-06-12T16:11:24 CDT" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2020-06-12T16:11:24 CDT" name="Test" finished-at="2020-06-12T16:11:24 CDT" duration-ms="90">
+      <class name="Qaclickacademy.Mavenjava1.AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:Qaclickacademy.Mavenjava1.AppiumTest@70e8f8e]" started-at="2020-06-12T16:11:24 CDT" name="IOSApps" finished-at="2020-06-12T16:11:24 CDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:Qaclickacademy.Mavenjava1.AppiumTest@70e8f8e]" started-at="2020-06-12T16:11:24 CDT" name="NativeAppAndroid" finished-at="2020-06-12T16:11:24 CDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- Qaclickacademy.Mavenjava1.AppiumTest -->
+      <class name="Qaclickacademy.Mavenjava1.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:Qaclickacademy.Mavenjava1.SeleniumTest@17046283]" started-at="2020-06-12T16:11:24 CDT" name="BrowserAutomation" finished-at="2020-06-12T16:11:24 CDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="ElementsUi()[pri:0, instance:Qaclickacademy.Mavenjava1.SeleniumTest@17046283]" started-at="2020-06-12T16:11:24 CDT" name="ElementsUi" finished-at="2020-06-12T16:11:24 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUi -->
+      </class> <!-- Qaclickacademy.Mavenjava1.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
